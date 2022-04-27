@@ -1,0 +1,175 @@
+.React-one{
+    padding-top: 10%;
+    display: flex;
+    flex-direction: column ;
+    text-align: left;
+    padding-left: 15%;
+    justify-content: center;
+    width: 100%;
+ height: 100vh;
+ 
+        
+}
+
+
+.buttons{
+    
+    display: flex;
+    justify-content: left;
+    
+}
+
+.buttons :nth-child(2){
+    margin-left: 02%;
+
+}
+
+
+.Image-1st{
+ width: 100%;
+ height: 100vh;
+ display: flex;
+ justify-content: right;
+ 
+}
+
+.Image-1st img{
+    margin-top: 02%;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.imager2{
+transform: skew(-5deg);
+
+}
+
+.imaged2{
+
+    display: flex;
+    justify-content: center;    
+    flex-direction: column;
+    
+    
+}
+
+
+.image2{
+    width: 50%;
+    margin-left: 25%;    
+    background-color: lightskyblue;
+    text-align: center;
+   
+}
+
+
+.image2 img{
+    transform-origin: top left;
+    transform: skew(-0deg);
+    width: 100%;
+    position: relative;
+    bottom: 10%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+
+    
+} 
+
+.Components{
+    margin-top: 25%;
+    margin-left: 20%;
+    
+}
+
+.Components b{
+    font-size: small;
+
+}
+.buttoons8{
+    background-color: #fff;
+    font-size: 10px;
+    border-radius: 25px;
+}
+
+.Excelent{
+    border-radius: 05px;
+    position: relative;
+    top: 30%;
+    left: 20%;
+}
+
+.GITHUB{
+    border-radius: 05px;
+    position: relative;
+    top: 45%;
+    
+}
+
+.Romina{
+    border-radius: 05px;
+    position: relative;
+    top: 10%;
+    left: 80%;
+}
+
+.Regular{
+
+    border-radius: 05px;
+    position: relative;
+    top: 22%;
+    left: 20%;
+}
+
+.Free{
+    border-radius: 05px;
+    position: relative;
+    top: 10%;
+    
+}
+
+.Indogo{
+
+    border-radius: 05px;
+    position: relative;
+    top: 10%;
+    left: 30%;
+}
+
+.Footerdd{
+    height: 20vh;
+}
+
+.footer{
+    width: 100%;
+    height: 30vh;
+    position: relative;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.buttons2{
+    display: flex;
+    justify-content: center;
+}
+
+.buttons2 :nth-child(2){
+    margin-left: 02%;
+}
+
+.footer-last h4{
+    margin-top: 10%;
+}
+
+.footer-last p{
+   font-size: 10px;
+   text-align: left;
+}
+
+.footer-Copyright p{
+    text-align: center;
+    font-size: 10px;
+}
